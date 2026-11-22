@@ -1,7 +1,6 @@
 # DSI Student Portal: A Modern Academic Toolkit 🎓
 Made and designed by Parth Italiya.
 
-
 Hey there! Welcome to the GitHub repository for my DSI Student Portal. This project is a full-stack web application I built to create a centralized, user-friendly platform for students to access essential academic resources and powerful AI-driven tools. It's a significant project that showcases a wide range of skills, from front-end design to back-end logic and database management. I'm really proud of how it came together.
 
 🚀 Key Features
